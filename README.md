@@ -29,6 +29,7 @@ Before running the examples, you'll need to set up two environment variables:
 ```bash
 export PROJECT_ID=YOUR_PROJECT_ID
 export LOCATION=us-central1
+export PYTHONPATH=/path/to/opencv/build/lib:$PYTHONPATH
 ```
 
 > [!WARNING]
